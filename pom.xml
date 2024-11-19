@@ -16,6 +16,11 @@
 
     <dependencies>
         <dependency>
+            <groupId>org.openjfx</groupId>
+            <artifactId>javafx-controls</artifactId>
+            <version>22-ea+11</version>
+        </dependency>
+        <dependency>
             <groupId>org.junit.jupiter</groupId>
             <artifactId>junit-jupiter-engine</artifactId>
             <version>5.10.2</version>
@@ -58,6 +63,7 @@
             <version>3.26.3</version>
             <scope>test</scope>
         </dependency>
+
 
 
     </dependencies>
